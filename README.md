@@ -12,8 +12,4 @@ Hey there!! This is my minor project on an animated frontend website. 🎨✨
 - **CSS3**: Styling and animations.
 - **JavaScript**: Adding interactivity.
 
-## How to Run
-1. Clone the repository:
-   ```bash
-   git clone <repository-url>
 
